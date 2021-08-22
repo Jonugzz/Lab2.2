@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+nav {
+    float: left;
+    width: 25%;
+}
+
+.section-container {
+    float: left;
+    width: 50%;
+}
+
+aside {
+    float: right;
+    width: 25%;
+}
+
+.container {
+   display: flow-root;
+}
+
+footer {
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
